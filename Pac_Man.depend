@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1426969478 source:c:\users\t.ghani\documents\codeblocks\pac_man\main.c
+	<windows.h>
+	<stdio.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	<pthread.h>
+	<stdbool.h>
+	<unistd.h>
+	<math.h>
+
+1427037986 source:c:\users\t.ghani\documents\tahira\iba\second year\fourth semester\computer architecture and assembly language\submission files\cpacman_mehak_tahira\pac_man\main.c
+	<windows.h>
+	<stdio.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	<pthread.h>
+	<stdbool.h>
+	<unistd.h>
+	<math.h>
+
+1427037986 source:c:\users\t.ghani\documents\tahira\iba\semesters\(4) spring '15\computer architecture and assembly language\submission files\cpacman_mehak_tahira\pac_man\main.c
+	<windows.h>
+	<stdio.h>
+	<gl/gl.h>
+	<gl/glu.h>
+	<gl/glut.h>
+	<pthread.h>
+	<stdbool.h>
+	<unistd.h>
+	<math.h>
+
